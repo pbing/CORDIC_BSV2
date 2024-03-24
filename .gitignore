@@ -1,0 +1,9 @@
+*.fst
+*.gtkw
+*.log
+*.vcd
+bdir/
+bsim
+bsim.so
+obj_dir/
+simdir/
