@@ -2,6 +2,8 @@
 *.gtkw
 *.log
 *.vcd
+*.csv
+*.png
 bdir/
 bsim
 bsim.so
